@@ -1,4 +1,4 @@
-##Push an existing folder
+## Push an existing folder
 git init
 
 git remote add origin GIT_PATH_NAME
