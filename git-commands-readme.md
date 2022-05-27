@@ -22,7 +22,7 @@ git push -u origin master
 
 __Step 1:__ Generate an access token on github
 
-__Step 2:__ git remote set-url origin https://<githubtoken>@github.com/<username>/<repositoryname>.git
+__Step 2:__ git remote set-url origin https://githubtoken@github.com/username/repositoryname.git
   
  ## Checkout a specific branch
   
